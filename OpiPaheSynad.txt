@@ -1,0 +1,25 @@
+ПО - Tarkvara - TA
+Процесс разработки ПО - Tarkvara arendusprotsess
+Документация на ПО - Tarkvara dokumentatsioon
+Проект - Projekt
+ИТ проект - IT projekt
+Бизнес-проект - Äriprojekt
+Проект по разработке - arendusprojekt
+Проект по реализации - teostusprojekt/realiseerimisprojekt
+Диаграмма Ганта - gantti diagramm
+
+
+
+***Lisa esimese faili juurde järgmised tõlked:
+
+?критический путь проекта-projekti kriitiline tee
+?виды рисков в проекте-projekti riskide liigid
+?аутсортсинг-allhange
+?краудсортсинг-rahvhange
+?ИТ аудит-IT audit
+?ERP системы- ERP süsteemid
+?ROI для оценки проектов-Roi projekti hindamiseks
+?Tacit-Tacit
+?Knowledge Managment System-KMS
+?cистемы управления базами данных – какие знаете?-andmebaasi haldussüsteemid-Ms sql, MS Access
+?Project Managment Tool-Projekti haldumise tarkvara - Ms Project libra
